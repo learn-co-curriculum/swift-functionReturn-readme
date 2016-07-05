@@ -35,7 +35,7 @@ Why would you want such a function? When writing Swift code, you will often need
 
 ```swift
 func happyBirthday(age: Int) {
-    println("Happy birthday #\(age)!")
+    print("Happy birthday #\(age)!")
 }
 ```
 
@@ -151,3 +151,5 @@ var friend2Age = getAgeAndCongratulate(friend2)
 Create some more functions that return values in your playground. Get comfortable with this concept—it'll become increasingly important as you learn more about Swift!
 
 <a href='https://learn.co/lessons/FunctionReturn' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/swift-functionReturn-readme'>Functions and Return Values</a> on Learn.co and start learning to code for free.</p>
